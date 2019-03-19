@@ -1,0 +1,13 @@
+.name{
+    color: gold;
+    font-size: 45px;
+    background: #00008B;
+    height: 50px ;
+width:150px;
+    border: 2px solid #ffd700;
+border-radius: 100px;
+    padding: 70px 70px 70px 70px;
+}
+.name:hover{
+    color: midnightblue;
+}
